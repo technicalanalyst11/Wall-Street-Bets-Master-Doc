@@ -9,8 +9,8 @@ trade at to monitor their value as we conduct a strategy to take our positions.
 
 I am open to listening to your individual strategies and how you conduct your research but for 
 this introductary period i would like to lay some framework for any beginners we may have.
-I would like to you to research and understand the following indicators:
-Ichimoku,candlestick trading, bollinger bands, Moving averages, Exponential moving averages, 
+I would like for you to research and understand the following indicators:
+Ichimoku, candlestick trading, bollinger bands, Moving averages, Exponential moving averages, 
 Volume, RSI, MACD, and Chaikin Oscillator. I am always available to help if you have questions
 so please feel free to reach out. 
 
